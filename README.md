@@ -1,6 +1,6 @@
 ### Hii all 👋
 ### I'm Jay Joshi
-
+- 🌱 I’m currently learning 
 <!--
 **jjay075/jjay075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
